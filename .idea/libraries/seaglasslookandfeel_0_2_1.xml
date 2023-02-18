@@ -1,9 +1,6 @@
 <component name="libraryTable">
   <library name="seaglasslookandfeel-0.2.1">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/seaglasslookandfeel-0.2.1.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/flatlaf-2.3.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>

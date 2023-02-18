@@ -39,7 +39,7 @@ public class App extends JFrame {
         pane.add(secondPanel, c);
         buildUI();
         addListeners();
-        setSize(450, 400);
+        setSize(500, 500);
         setResizable(false);
         controller = new FileController();
         controller.addChangeListener((e) -> {
